@@ -2,7 +2,7 @@
 
 > Python Study for TEAMLAB-RA
 
-- 기간: 2023년 1월 ~
+- 기간: 2024년 1월 ~
 - 정기 미팅: 매주 월/화/목 오전 10시~
 - 참고 사이트: [프로그래머스](https://school.programmers.co.kr/learn/challenges/beginner?order=acceptance_asc)
 - 언어: Python
